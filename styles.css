@@ -35,3 +35,6 @@ li {
 h2 {
   color: rgb(0, 138, 180);
 }
+.done {
+text-decoration: line-through;
+}
